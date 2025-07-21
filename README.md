@@ -1,5 +1,5 @@
 
-🌟 **Creating AI-Powered Executive Summaries for Tech Summits** 🚀
+🌟 **Creating AI Agents Powered Executive Summaries for Tech Summits** 🚀
 
 In Solution Architect role, staying ahead of the ever-evolving tech landscape is mission-critical. One of the best ways to stay current is by attending industry-defining events like the **Databricks Data + AI Summit**, **Snowflake Summit**, **AWS Summit**, **KubeCon + CloudNativeCon** etc— either in person or virtually.
 
