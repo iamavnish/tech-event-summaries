@@ -1,4 +1,3 @@
-
 🌟 **Creating AI Agents Powered Executive Summaries for Tech Summits** 🚀
 
 In Solution Architect role, staying ahead of the ever-evolving tech landscape is mission-critical. One of the best ways to stay current is by attending industry-defining events like the **Databricks Data + AI Summit**, **Snowflake Summit**, **AWS Summit**, **KubeCon + CloudNativeCon** etc— either in person or virtually.
@@ -50,5 +49,5 @@ The system generated detailed reports summarizing key takeaways from:
 
 This experiment affirms the **potential of AI agents** and if you're building systems like this , I'd love to connect! 🧐
 
-\#AI #MultiAgentSystems #CrewAI  #Snowflake #Databricks #DataAndAI #LLM #AutonomousAgents #ExecutiveSummary #Innovation #TechnicalLeadership 💻💡🚀
+\#AI #MultiAIAgentSystems #CrewAI  #Snowflake #Databricks #DataAndAI #LLM #AutonomousAgents #ExecutiveSummary #Innovation #TechnicalLeadership 💻💡🚀
 
